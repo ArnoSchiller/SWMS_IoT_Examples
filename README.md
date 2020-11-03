@@ -1,0 +1,1 @@
+This project shows some code examples for IoT projects. Visit our website for detailed informations: iot-stack.co
